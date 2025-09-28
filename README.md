@@ -3,14 +3,24 @@ AI Agents Hackathon
 
 ## Setup Instructions
 
-### Code Setup
-Create codespace on main
+This guide will help you set up and run the Azure AI Agent locally using Codespaces.
 
-### Environment Configuration
-Rename `copy.env` to `.env`
+---
 
-On the `.env` file replace the variables with your `AZURE_AGENT_IA` and `AZURE_ENDPOINT`
+## 🚀 Setup Instructions
 
+### 1. Create Codespace
+- Create a **Codespace** on the `main` branch of this repository.
+
+---
+
+### 2. Configure Environment Variables
+- Rename the file `copy.env` to `.env`.
+- Open the `.env` file and replace the variables with your own values:
+  ```env
+  AZURE_AGENT_IA=your_agent_id
+  AZURE_ENDPOINT=your_endpoint_url
+  
 ### Install Azure CLI
 Run the following command on the terminal:
 
