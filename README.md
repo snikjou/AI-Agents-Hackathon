@@ -3,7 +3,7 @@ AI Agents Hackathon
 
 ## Setup Instructions
 
-This guide will help you set up and run the Azure AI Agent locally using Codespaces.
+This guide will help you set up and run the Azure AI Agent app using Codespaces.
 
 ---
 
