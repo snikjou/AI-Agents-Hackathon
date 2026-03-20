@@ -9,12 +9,18 @@ This guide will help you set up and run the Azure AI Agent app using Codespaces.
 
 ## 🚀 Setup Instructions
 
-### 1. Create Codespace
+### 1. Deploy a Microsoft Foundry Agent
+- Follow the lab instructions to deploy a Microsoft Foundry agent:
+  [Exercise - Explore agent fundamentals](https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/01-agent-fundamentals.html)
+
+---
+
+### 2. Create Codespace
 - Create a **Codespace** on the `main` branch of this repository.
 
 ---
 
-### 2. Configure Environment Variables
+### 3. Configure Environment Variables
 - Rename the file `copy.env` to `.env`.
 - Open the `.env` file and replace the variables with your own values:
   ```env
